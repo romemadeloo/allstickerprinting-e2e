@@ -282,5 +282,3 @@ defects are fixed (ASP-CFG-010, ASP-UX-002). Use `npm run test:e2e:list` to see 
 ## Owner
 
 The QA team. Report suite problems to the QA lead, and product defects through Jira.
-#   a l l s t i c k e r p r i n t i n g - e 2 e  
- 
